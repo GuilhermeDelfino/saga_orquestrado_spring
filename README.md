@@ -8,7 +8,7 @@ Repositório contendo o projeto desenvolvido do curso Arquitetura de Microsservi
 
 Para acessar o curso na plataforma, basta acessar esta URL: https://www.udemy.com/course/arquitetura-de-microsservicos-padrao-saga-orquestrado/
 
-![Arquitetura](Conte%C3%BAdos/Imagem%20Curso.png)
+![Arquitetura](https://github.com/vhnegrisoli/curso-udemy-microsservicos-padrao-saga-orquestrado/blob/main/Conte%C3%BAdos/Imagem%20Curso.png)
 
 ### Sumário:
 
@@ -56,7 +56,7 @@ Para acessar o curso na plataforma, basta acessar esta URL: https://www.udemy.co
 
 No curso, desenvolveremos a seguinte aquitetura:
 
-![Arquitetura](Conte%C3%BAdos/Arquitetura%20Proposta.png)
+![Arquitetura](https://github.com/vhnegrisoli/curso-udemy-microsservicos-padrao-saga-orquestrado/blob/main/Conte%C3%BAdos/Arquitetura%20Proposta.png)
 
 Em nossa arquitetura, teremos 5 serviços:
 
@@ -152,7 +152,7 @@ http://localhost:3000/swagger-ui.html
 
 Você chegará nesta página:
 
-![Swagger](Conte%C3%BAdos/Documentacao.png)
+![Swagger](https://github.com/vhnegrisoli/curso-udemy-microsservicos-padrao-saga-orquestrado/blob/main/Conte%C3%BAdos/Documentacao.png)
 
 As aplicações executarão nas seguintes portas:
 
@@ -178,7 +178,7 @@ http://localhost:8081
 
 Você chegará nesta página:
 
-![Redpanda](Conte%C3%BAdos/Redpanda%20Kafka.png)
+![Redpanda](https://github.com/vhnegrisoli/curso-udemy-microsservicos-padrao-saga-orquestrado/blob/main/Conte%C3%BAdos/Redpanda%20Kafka.png)
 
 ## Dados da API
 
